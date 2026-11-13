@@ -8,3 +8,4 @@ hist(mtcars$mpg, main="Fuel efficiency",
      xlab="Miles per gallon")
 
 boxplot(mpg~cyl, data=mtcars)
+This repository contains my work for Data Analysis in R.
